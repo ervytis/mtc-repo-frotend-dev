@@ -1,2 +1,2 @@
-# mtc-repo-frotend-dev
-javascript Code for MTC
+# This dev javascript is for frotend developers.
+Infra was last modified by : ervytis
